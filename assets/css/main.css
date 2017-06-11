@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Montserrat";
+	width: 100%;
+}
+
+#navegador{
+	background-color: white;
+	font-weight: 15px;
+	width: 100%;
+	
+}
+
+#navegador a{
+text-decoration: none;
+color: black;
+font-size: 10px;
+padding: 30px;
+}
+
+#home{
+	background-color: #585B59;
+	color: whitesmoke;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#home form{
+	background-color: #504048;
+	padding: 30px;
+}
+
+#home button{
+	background-color: #E55AA1;
+	width: 100%;
+	color: whitesmoke;
+}
+
+#home input{
+	width: 100%;
+}
+
+#home h2{
+	font-weight: 8px;
+	color: whitesmoke;
+	text-align: center;
+}
+
+#home p{
+	margin-top: 10px;
+}
+
+footer p{
+	font-size: 10px;
+	color: #434142;
+}

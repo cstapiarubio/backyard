@@ -1,0 +1,30 @@
+@media only screen and (min-width: 535px) and (max-width: 824px){
+	
+#navegador{
+	background-color:#4E509C;
+	
+}
+
+#navegador a{
+color:#323235;
+}
+	
+#home button{
+	background-color:#101378;
+}	
+
+}
+
+@media only screen and  (min-width: 200px) and (max-width: 534px){
+	
+	body{
+		background: #07B399;
+		font-family: "Indie Flower", cursive;
+		color:#DFDFDF;
+	}
+	
+	#home form{
+		display: block;
+
+	}
+}
